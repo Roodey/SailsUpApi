@@ -1,0 +1,8 @@
+{
+  "generators": {
+    "modules": {
+      "graphql-bolts": "sails-graphql-bolts",
+      "ember-rest": "sails-ember-rest"
+    }
+  }
+}
