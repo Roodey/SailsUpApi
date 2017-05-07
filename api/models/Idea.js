@@ -25,7 +25,14 @@ module.exports = {
     },
     content: {
       collection: 'detail'
+    },
+    associations:{
+      collection: 'detail'
+    },
+    validations:{
+      collection:'detail'
     }
+
 
   }
 };
