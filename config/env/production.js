@@ -120,9 +120,11 @@ module.exports = {
     *                                                                          *
     ***************************************************************************/
     cors: {
-      // allowOrigins: [
-      //   'https://example.com',
-      // ]
+      allowOrigins: [
+        'http://localhost:4200',
+        'https://settleup-cb4db.firebaseapp.com/'
+
+      ]
     },
 
   },
@@ -220,9 +222,10 @@ module.exports = {
     * > Be sure to use the right protocol!  ("http://" vs. "https://")         *
     *                                                                          *
     ***************************************************************************/
-    // onlyAllowOrigins: [
-    //   'https://example.com',
-    // ],
+    onlyAllowOrigins: [
+      'http://localhost:4200',
+      'https://settleup-cb4db.firebaseapp.com/'
+    ],
 
 
     /***************************************************************************
