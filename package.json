@@ -10,6 +10,7 @@
     "lodash": "3.10.1",
     "sails": "^1.0.0-33",
     "sails-ember-rest": "^0.1.2",
+    "sails-graphql-bolts": "^0.1.5",
     "sails-hook-grunt": "^1.0.4",
     "sails-hook-orm": "^2.0.0-0",
     "sails-hook-sockets": "^1.0.1",
